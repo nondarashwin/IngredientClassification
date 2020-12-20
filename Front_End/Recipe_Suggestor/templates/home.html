@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Welcome Admin</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</head>
+<body>
+<div class="navbar-fixed">
+    <nav>
+        <div class="nav-wrapper purple accent-1">
+            <a href="" class="brand-logo"> <font size="7"<b>Recipe Recommendation</b></font></a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                {% if request.user.username == 'admin' %}
+                <li><a href="/add">Add New Recipe</a></li>
+               <li> <a href="/">Search</a></li>
+                {% endif%}
+              <li>  <a href="/logout">Logout</a>
+
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
+<div class="row">
+    {% for i in data%}
+    <div class="col s4 m4">
+        <div class="card">
+            <div class="card-image center">
+                <img src="/static/images/{{i.images}}" style="width:300px;height:200px;">
+
+            </div>
+            <div class="card-content">
+                {{i.name}}
+            </div>
+            <div class="card-action">
+                <a href="/edit/{{i.name}}">edit detials</a>
+            </div>
+        </div>
+    </div>
+
+    {% endfor%}
+</div>
+</body>
+</html>

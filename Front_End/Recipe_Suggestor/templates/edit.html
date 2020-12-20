@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Edit Recipe</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</head>
+<body>
+<div class="navbar-fixed">
+    <nav>
+        <div class="nav-wrapper purple accent-1">
+            <a href="" class="brand-logo"> <font size="7"<b>Recipe Recommendation</b></font></a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                {% if request.user.username == 'admin' %}
+                <li><a href="/add">Add New Recipe</a></li>
+               <li> <a href="/home">Home</a></li>
+                {% endif%}
+                    <li><a href="/">Search</a> </li>
+              <li>  <a href="/logout">Logout</a>
+
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
+{% load static %}
+<form action="/edit/{{name}}/" method="POST">
+    {% csrf_token%}
+    <img src="/static/images/{{images}}">
+    <h2>{{name}}</h2>
+    <label>Ingridient</label>
+    <input type="text" name="ingredient" value="{{ingredient}}"><br>
+    <label>Calories</label>
+    <input type="text" name="calories" value="{{calories}}"><br>
+    <label>Carbohydrates</label>
+    <input type="text" name="carbohydrates" value="{{carbohydrate}}"><br>
+    <label>Fats</label>
+    <input type="text" name="fats" value="{{fats}}"><br>
+    <label>Proteins</label>
+    <input type="text" name="proteins" value="{{proteins}}"><br>
+    <label>Serves</label>
+    <input type="text" name="serves" value="{{serves}}"><br>
+    <label>url</label>
+    <input type="text" name="url" value="{{url}}"><br>
+    <button class="btn waves-effect waves-light purple accent-1" type="submit">Submit</button>
+</form>
+</body>
+</html>

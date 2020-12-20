@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{name}}</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</head>
+<body>
+<div class="navbar-fixed">
+    <nav>
+        <div class="nav-wrapper purple accent-1">
+            <a href="" class="brand-logo"> <font size="7"<b>Recipe Recommendation</b></font></a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                {% if request.user.username == 'admin' %}
+                <li><a href="/add">Add New Recipe</a></li>
+               <li> <a href="/home">Home</a></li>
+                {% endif%}
+                    <li><a href="/">Search</a></li>
+              <li>  <a href="/logout">Logout</a>
+
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
+
+<b>{{message}}</b><br>
+<b>Ingredients :</b>
+{% for ing in ingredient%}
+{{ing}},
+{% endfor%}
+<div class="row">
+{% for recipe in recipes%}
+
+    <div class="col s4 m4">
+        <div class="card">
+            <div class="card-image center">
+                <img src="{{recipe.image}}" style="width:300px;height:200px;">
+
+            </div>
+            <div class="card-content">
+                <b>Name</b>{{recipe.name}}<br>
+                <b>Ratings:</b>{{recipe.ratings}}
+            </div>
+            <div class="card-action">
+                <a href="{{recipe.link}}">more detials</a>
+            </div>
+        </div>
+    </div>
+
+
+
+
+{% endfor %}
+    </div>
+
+</body>
+</html>

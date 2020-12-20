@@ -1,0 +1,1540 @@
+[
+    {
+            "id":1,
+            "cuisine":"ALOO MASALA GRILLED SANDWICH",
+            "ingredients":["Bread","bread slice","bread slices","Green chili","chillies","chilli","chilly","Onion","Red Chili","Garam Masala","Chaat Masala","Coriander Powder","Cumin Seeds","jeera","Salt","Oil"],
+            "url":"https://www.indianfoodforever.com/indian-breakfast/aoo-masala-grilled-sandwich.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":217,
+                    "carbohydrates":35.2,
+                    "fats":6.5,
+                    "proteins":4.4
+            }
+    },
+    
+    {
+            "id":2,
+            "cuisine":"SABUDANA (SAGO) KHICHIDI",
+            "ingredients":["sabudana","Tapioca Sago","tapioca","Green Chillies","chillies","chilli","Red Chili","chilly","peanuts","ground nut","potato","Cumin seeds","jeera","Hing","Asafoetida","Coconut","Lemon juice","Salt","Oil","Coriander"],
+            "url":"https://www.indianfoodforever.com/indian-breakfast/sabudana-khichdi.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":262,
+                    "carbohydrates":38,
+                    "fats":11,
+                    "proteins":4.5
+            }
+    },
+    
+    {
+            "id":3,
+            "cuisine":"METHI THEPLA",
+            "ingredients":["sabudana","Tapioca Sago","tapioca","Green Chillies","chillies","chilli","Red Chili","chilly","Wheat Flour","Haldi","turmeric","Curd","Hing","Asafoetida ","Ginger","Methi Leaves","Salt","Oil","Coriander","Cumin Seeds","jeera"],
+            "url":"https://www.indianfoodforever.com/indian-breakfast/thepla.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":128,
+                    "carbohydrates":14,
+                    "fats":7.1,
+                    "proteins":2.8
+            }
+    },
+    
+    {
+            "id":4,
+            "cuisine":"VEGETABLE UPMA RECIPE",
+            "ingredients":["Rava ","Green Chillies","chillies","chilli","Red Chili","chilly","Cashew","kaju","Haldi ","Turmeric","Potato","Hing","Asafoetida ","Ginger","Capsicum ","Salt","Oil","Coriander","Cumin Seeds","jeera","Peas","Urad Daal","Channa Daal","curry leaves","Ghee"],
+            "url":"https://www.indianfoodforever.com/indian-breakfast/upma.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":132,
+                    "carbohydrates":21,
+                    "fats":4,
+                    "proteins":3.4
+            }
+    },
+    
+    {
+            "id":5,
+            "cuisine":"VADA RECIPE",
+            "ingredients":["sooji","suji","Rava","rawa","GreenChillies","chillies","chilli","Red Chili","chilly","Cashew","kaju","BakingSoda ","Hing","Asafoetida","Salt","Oil","Coriander","UradDaal","ChannaDaal","curry leaves","Ghee"],
+            "url":"https://www.indianfoodforever.com/indian-breakfast/upma.html",
+            "nutrition":{
+                    "serves":"1 pc",
+                    "calories":135,
+                    "carbohydrates":11,
+                    "fats":8.4,
+                    "proteins":4.4
+            }
+    },
+    
+    {
+            "id":6,
+            "cuisine":"VERMICELLI UPMA",
+            "ingredients":["Vermicelli","Semiya","GreenChillies","chillies","chilli","Red Chili","chilly","Cashew","kaju","Peanuts","Mustard seeds","Salt","Oil","Coriander","Carrots","Onion","Ginger","Urad Daal","Channa Daal","curry leaves","Ghee"],
+            "url":"https://www.indianfoodforever.com/indian-breakfast/vermicelli-upma.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":100,
+                    "carbohydrates":32,
+                    "fats":3,
+                    "proteins":5
+            }
+    },
+    
+    {
+            "id":7,
+            "cuisine":"ALOO POHA",
+            "ingredients":["Poha","flattened rice","GreenChillies","chillies","chilli","Red Chili","chilly","Potatoes","Peanuts","Mustard seeds","Salt","Oil","haldi","turmeric","Carrots","Onion","Ginger","Urad Daal","Channa Daal","curry leaves","Ghee","Lemon"],
+            "url":"https://www.indianfoodforever.com/indian-breakfast/aloo-poha.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":360,
+                    "carbohydrates":69,
+                    "fats":6,
+                    "proteins":7
+            }
+    },
+    
+    {
+            "id":8,
+            "cuisine":"CURD RICE",
+            "ingredients":["Rice","Curd","curds","Coriander Leaves","Milk","Mustard seeds","Salt","Oil","Ginger","Urad Daal","Channa Daal","curry leaves","Coconut"],
+            "url":"https://www.indianfoodforever.com/indian-breakfast/curd-rice-recipe.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":300,
+                    "carbohydrates":41,
+                    "fats":5,
+                    "proteins":16
+            }
+    },
+    
+    {
+            "id":9,
+            "cuisine":"RAVA UTTAPAM",
+            "ingredients":["sooji","suji","semolina","rava","rawa","Curd","onion","onions","tomato","tomatoes","Mustard seeds","Salt","Oil","Ginger","Urad Daal","Channa Daal","curry leaves","coriander leaves"],
+            "url":"https://www.indianfoodforever.com/indian-breakfast/rava-uttapam.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":163,
+                    "carbohydrates":26,
+                    "fats":3,
+                    "proteins":5
+            }
+    },
+    
+    {
+            "id":10,
+            "cuisine":"RAVA RAWA DOSA",
+            "ingredients":["sooji","suji","semolina","rava","rawa","rice","potato","onion","red chilly","GreenChillies","chillies","chilli","Red Chili","chilly","onions","tomato","tomatoes","Mustard seeds","Salt","Oil","curd","curds","Urad Daal","Channa Daal","curry leaves","coriander leaves"],
+            "url":"https://www.indianfoodforever.com/indian-breakfast/rawa-dosa.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":80,
+                    "carbohydrates":21,
+                    "fats":7,
+                    "proteins":3
+            }
+    },  
+    
+    {
+            "id":11,
+            "cuisine":"IDLI",
+            "ingredients":["Rice","Urad Daal","Salt","Baking Soda","oil"],
+            "url":"https://www.indianfoodforever.com/indian-breakfast/idli.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":69,
+                    "carbohydrates":15,
+                    "fats":0,
+                    "proteins":1
+            }
+    },
+    
+    {
+            "id":12,
+            "cuisine":"Banana and Mango Smoothie",
+            "ingredients":["banana","bananas","mango","mangoes","milk","yogurt","curd","yogurt","curds"],
+            "url":"https://www.yummly.com/recipe/Banana-and-Mango-Smoothie-1405120",
+            "nutrition":{
+                    "serves":1,
+                    "calories":190,
+                    "carbohydrates":27,
+                    "fats":5,
+                    "proteins":9
+            }
+    },
+    
+    {
+            "id":13,
+            "cuisine":"DHOKLA",
+            "ingredients":["besan","sooji","suji","semolina","rava","rawa","eno powder","sugar","lemon","green chilly","Green Chillies","chillies","chilli","Red Chili","chilly","Mustard seeds","Salt","Oil","water","curry leaves","coriander leaves"],
+            "url":"https://www.indianfoodforever.com/indian-breakfast/instant-dhokla.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":178,
+                    "carbohydrates":21,
+                    "fats":8,
+                    "proteins":4
+            }
+    },
+    
+    {
+            "id":14,
+            "cuisine":"Gobi 65",
+            "ingredients":["cauliflower","curry leaves","all-purpose flour","maida","rice flour","corn flour","green chilly"," chilli powder ","garam masala","Salt","Oil","turmeric","coriander leaves","garlic paste "],
+            "url":"https://www.yummly.com/recipe/Gobi-65-1126583",
+            "nutrition":{
+                    "serves":1,
+                    "calories":130,
+                    "carbohydrates":21,
+                    "fats":8,
+                    "proteins":8
+            }
+    },
+    
+    {
+            "id":15,
+            "cuisine":"Coconut Rice",
+            "ingredients":["rice","Coconut ","Cumin Seeds","Salt","Oil","Green Chillies","chillies","chilli","Red Chili","chilly","ghee","mustard ","Hing","Asafoetida ","Cumin","jeera","Chana Daal","Urad Daal","Urad Dal","ginger","cashew"],
+            "url":"https://www.indianhealthyrecipes.com/coconut-rice-recipe/",
+            "nutrition":{
+                    "serves":1,
+                    "calories":303,
+                    "carbohydrates":46,
+                    "fats":16,
+                    "proteins":6
+            }
+    },
+    {
+            "id":16,
+            "cuisine":"Rasam",
+            "ingredients":["tomato","tomatoes","haldi","turmeric" ,"water","tamrind","lemon","jaggery","sugar","Salt","Oil","water","curry leaves","coriander leaves","Hing","Asafoetida ","Cumin Seeds","jeera","garlic","mustard","Green Chillies","chillies","chilli","Red Chili","chilly" ,"dried chili","fenugreek seeds","methi","pepper","pepper corns"],
+            "url":"https://www.indianhealthyrecipes.com/tomato-rasam-recipe/#wprm-recipe-container-38824",
+            "nutrition":{
+                    "serves":1,
+                    "calories":151,
+                    "carbohydrates":26,
+                    "fats":4,
+                    "proteins":5
+            }
+    },
+    
+    {
+            "id":17,
+            "cuisine":"Tomato rice",
+            "ingredients":["tomato","tomatoes","rice","fenugreek seeds","methi","water","onion","Green Chillies","chillies","chilli","Red Chili","chilly","ginger","garlic","Ginger Garlic Paste","salt","mustard seeds","haldi","chilly powder","Salt","Oil","ghee","water","lemon","garam masala","cashew","chilly powder","Red chili powder ","turmeric","haldi","bay leaves","Bay leaf","tej patta","cumin ","jeera","cardamom ","elaichi","cloves","laung","curry leaves"],
+            "url":"https://www.indianhealthyrecipes.com/tomato-rice-recipe/",
+            "nutrition":{
+                    "serves":1,
+                    "calories":153,
+                    "carbohydrates":27,
+                    "fats":4,
+                    "proteins":3
+            }
+    },
+    
+    {
+            "id":18,
+            "cuisine":"PANEER DOSA",
+            "ingredients":["rice","fenugreek seeds","potato","onion","mustard seeds","haldi","chilly powder","Salt","Oil","water","curry leaves","paneer"],
+            "url":"https://www.indianfoodforever.com/indian-breakfast/paneer-dosa.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":178,
+                    "carbohydrates":21,
+                    "fats":8,
+                    "proteins":4
+            }
+    },
+    
+    {
+            "id":19,
+            "cuisine":"corn pakoda",
+            "ingredients":["corn","sweet corn","mint","pudina","onion","Green chillies","haldi","turmeric","chilly powder","chili powder","curry leaves","curry leaf","Salt","Oil","Cumin Seeds","jeera","cumin"],
+            "url":"https://www.indianhealthyrecipes.com/corn-pakoda-recipe-pakora-recipe/",
+            "nutrition":{
+                    "serves":1,
+                    "calories":27,
+                    "carbohydrates":6,
+                    "fats":1,
+                    "proteins":1
+            }
+    },
+    {
+            "id":20,
+            "cuisine":"PAV USAL",
+            "ingredients":["Peas","Pavs","Garam Masala","Cumin Seeds","jeera","cumin","Lemon","Salt","Oil","water"],
+            "url":"https://www.indianfoodforever.com/indian-breakfast/pav-usal.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":394,
+                    "carbohydrates":68,
+                    "fats":8,
+                    "proteins":13
+            }
+    },
+    {
+            "id":21,
+            "cuisine":"PLAIN DOSA",
+            "ingredients":["rice","urad","Urad Dal","Urad Daal","salt","fenugreek seeds","oil"],
+            "url":"https://www.indianfoodforever.com/indian-breakfast/plain-dosa.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":120,
+                    "carbohydrates":19,
+                    "fats":3,
+                    "proteins":3
+            }
+    },
+    
+    {
+            "id":22,
+            "cuisine":"Vangi Bath - Brinjal Rice",
+            "ingredients":[" rice","onion","onions","Green Chillies","chillies","chilli","Red Chili","chilly","brinjal","ginger","peanut","peanuts","lemon","tamrind","Salt","Oil","water","curry leaves","coriander seeds"," daniya","channa dal","bengal gram","urad dal ","Urad Daal","urad","black gram","Cumin Seeds","jeera","cumin","cinnamon","dry coconut"],
+            "url":"https://www.indianhealthyrecipes.com/vangi-bath-recipe-brinjal-fried-rice-recipe/",
+            "nutrition":{
+                    "serves":1,
+                    "calories":128,
+                    "carbohydrates":23,
+                    "fats":3,
+                    "proteins":3
+            }
+    },
+    
+    {
+            "id":23,
+            "cuisine":"CHICKEN SAAG",
+            "ingredients":[" chicken","garlic","onions","tomatoes","ginger","palak","spinach","Salt","Oil","water","butter","pepper","coriander powder","turmeric","cardamom","garam masala","elaichi","Kashmiri Lal Mirch","Jeera Seeds","Ghee"],
+            "url":"https://www.indianfoodforever.com/non-veg/chicken/saag-chicken-recipe.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":128,
+                    "carbohydrates":5,
+                    "fats":4,
+                    "proteins":19
+            }
+    },
+    
+    {
+            "id":24,
+            "cuisine":"TANDOORI CHICKEN", 
+            "ingredients":[" chicken","garlic","onions","onion","tomato","tomatoes","ginger","curd","curds","Yogurt","spinach","Salt","Oil","water","butter","pepper","coriander powder","turmeric","haldi","cardamom","elaichi","garam masala","Lemon","Jeera Seeds","Cumin Seeds","jeera","cumin","Ghee","Paprika","chilly powder"," chilli powder "],
+            "url":"https://www.indianfoodforever.com/non-veg/chicken/tandoori-murghi.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":162,
+                    "carbohydrates":4,
+                    "fats":3,
+                    "proteins":32
+            }
+    },
+    
+    {
+            "id":25,
+            "cuisine":"TANGDI GOLUMBAAZ",
+            "ingredients":[" chicken","garlic","chaat masala","turmeric","cheese","raisins","eggs ","Salt","Oil","breadcrumbs","capsicum","olives"],
+            "url":"https://www.indianfoodforever.com/non-veg/chicken/tangdi-golumbaaz.html",
+            "nutrition":{
+                    "serves":1,
+                    "calories":220,
+                    "carbohydrates":35,
+                    "fats":3,
+                    "proteins":15
+            }
+    },
+    { 
+        "id":26,
+        "cuisine":"MURG MAKHANI",
+        "ingredients":["chicken","garlic","Onion","turmeric","cheese","lemon","Curd","Salt","Oil","Cumin","tomatoes","Butter","Cumin","Ginger","Cream","Coriander"],
+        "url":"https://www.indianfoodforever.com/non-veg/chicken/murgh-makhani.html",
+        "nutrition":{
+            "serves":1,
+            "calories":250,
+            "carbohydrates":7,
+            "fats":15,
+            "proteins":21
+        }
+    },
+    {
+        "id":27,
+        "cuisine":"PINEAPPLE CHICKEN",
+        "ingredients":["chicken","Pineapple","Egg","BreadCrumbs","Butter","Coconut","Curd","Salt","bread","eggs"],
+        "url":"https://www.indianfoodforever.com/non-veg/chicken/pineapple-chicken.html",
+        "nutrition":{
+            "serves":1,
+            "calories":222,
+            "carbohydrates":11,
+            "fats":7.1,
+            "proteins":27
+        }
+    },
+    {
+        "id":28,
+        "cuisine":"CHICKEN TIKKA",
+        "ingredients":[" chicken","yogurt","ginger","garlic","pepper","cumin ","mace","nutmeg","cardamom","Cumin","tomatoes","green chily","turmeric","lemon","oil","butter","fenugreek","cream","green chillies","chili","green chili"],
+        "url":"https://www.indianfoodforever.com/non-veg/chicken/chicken-tikka-masala.html",
+        "nutrition":{
+            "serves":1,
+            "calories":290,
+            "carbohydrates":11,
+            "fats":12,
+            "proteins":19
+        }
+    },
+    {
+        "id":29,
+        "cuisine":"HAZELNUT COOKIE",
+        "ingredients":["Sugar","Butter","Vanilla Essence","Lemon ","Egg ","Maida ","Hazelnuts","Jam","eggs","vanilla"],
+        "url":"https://www.indianfoodforever.com/cookies/hazelnut-cookie-recipe.html",
+        "nutrition":{
+            "serves":1,
+            "calories":90,
+            "carbohydrates":9,
+            "fats":6,
+            "proteins":1
+        }
+    },
+    {
+        "id":30,
+        "cuisine":"RAISIN CHOCO OAT COOKIE",
+        "ingredients":["Sugar","Butter","Vanilla Essence","oats ","Egg ","Maida ","Kishmish","Currants","Chocolate","vanilla","eggs","raisins","raisin"],
+        "url":"https://www.indianfoodforever.com/cookies/raisin-choco-oat-cookie.html",
+        "nutrition":{
+            "serves":1,
+            "calories":143,
+            "carbohydrates":22.61,
+            "fats":5.49,
+            "proteins":1.51
+        }
+    },
+    {
+        "id":31,
+        "cuisine":"SESAME SEED COOKIES",
+        "ingredients":["Sugar","Butter","Vanilla Essence","Cake Seeds","Egg ","Maida","Milk","Baking Soda","Sesame","eggs","vanilla"],
+        "url":"https://www.indianfoodforever.com/cookies/sesame-seed-cookies.html",
+        "nutrition":{
+            "serves":1,
+            "calories":73,
+            "carbohydrates":8,
+            "fats":4,
+            "proteins":1
+        }
+    },
+    {
+        "id":32,
+        "cuisine":"CARDAMOM COOKIES",
+        "ingredients":["Butter","Egg ","Maida ","Cardamom ","Sugar","eggs","cardamum","cardamon"],
+        "url":"https://www.indianfoodforever.com/cookies/cardamom-cookies.html",
+        "nutrition":{
+            "serves":1,
+            "calories":178,
+            "carbohydrates":21,
+            "fats":8,
+            "proteins":4
+        }
+    },
+    {
+        "id":33,
+        "cuisine":"BENGALI STYLE TOMATO CHUTNEY",
+        "ingredients":[" tomatoes ","Ginger ","Chilli","Sugar","Phoran ","Salt ","Raisins","Khishmish","Mustard","Oil","chillies","chilly","raisin","tomato","red chilli","red chilly","red chillies"],
+        "url":"https://www.indianfoodforever.com/bengali/bengali-style-tomato-chutney.html",
+        "nutrition":{
+            "serves":1,
+            "calories":1303,
+            "carbohydrates":252,
+            "fats":28,
+            "proteins":9
+        }
+    },
+    {
+        "id":34,
+        "cuisine":"TAMARIND CHUTNEY",
+        "ingredients":["Tamarind ","Jaggery ","cumin ","Jeera","Red chili powder ","chilli ","Salt ","Black salt","Garam masala","Garam ","red chilly","red chillies","chillies","chilly"],
+        "url":"https://www.indianfoodforever.com/chutney/tamarind-chutney.html",
+        "nutrition":{
+            "serves":1,
+            "calories":720,
+            "carbohydrates":186,
+            "fats":0,
+            "proteins":4
+        }
+    },
+    {
+        "id":35,
+        "cuisine":"PANEER WITH CAPSICUM",
+        "ingredients":[" cheese  ","cottage cheese","paneer ","capsicum ","shimla mirch","curd","dahi ","dania patti","garam masala","coriander","mint","garlic","cabbage","lemon","mint","Mint Leaves","pudina patta"],
+        "url":"https://www.indianfoodforever.com/indian-starters/paneer-with-capsicum.html",
+        "nutrition":{
+            "serves":1,
+            "calories":339,
+            "carbohydrates":10,
+            "fats":27.2,
+            "proteins":13.5
+        }
+    },
+    {
+        "id":36,
+        "cuisine":"PAPAD ROLL",
+        "ingredients":["gramflour","aloo","papad","potato","chilly","mirch","hari mirch","lal mirch","coriander ","red chilly ","garam masala","sugar ","besan","oil","dhania patti","lemon","flour","green chilly","chilly","chilli","chillies","green chillies","gram flour","chini"],
+        "url":"https://www.indianfoodforever.com/indian-starters/papad-roll.html",
+        "nutrition":{
+            "serves":1,
+            "calories":132,
+            "carbohydrates":15.3,
+            "fats":6.3,
+            "proteins":3.6
+        }
+    },
+    {
+        "id":37,
+        "cuisine":"PRAWN ARABIAN",
+        "ingredients":["tomato","prawns","pepper","Salt ","eggs","Flour","red chilly ","garam masala","coriander","onion","oil","lemon","lettuce","tomatoes","cheese","garlic"],
+        "url":"https://www.indianfoodforever.com/indian-starters/prawn-arabian.html",
+        "nutrition":{
+            "serves":1,
+            "calories":72,
+            "carbohydrates":6,
+            "fats":10,
+            "proteins":12
+        }
+    },
+    {
+        "id":38,
+        "cuisine":"MATAR MUSHROOM WITHOUT ONION GARLIC",
+        "ingredients":["Mushroom","Peas","Tomatoes","Chillies","Kashmiri Chili Powder","red chilly ","Coriander powder","coriander","Garam Masala","oil","Cumin Seeds","Salt","Ghee"],
+        "url":"https://www.indianfoodforever.com/vegetables/matar-mushroom-without-onion-garlic.html",
+        "nutrition":{
+            "serves":1,
+            "calories":121.9,
+            "carbohydrates":12.3,
+            "fats":7.8,
+            "proteins":3.4
+        }
+    },
+    {
+        "id":39,
+        "cuisine":"KADAI MUSHROOM",
+        "ingredients":["Mushroom","capsicum ","Tomatoes","onion","Kashmiri Chili Powder","ginger","Coriander powder","coriander","garlic","oil","Cumin Seeds","Salt","Ghee","haldi","garam masala","turmeric"],
+        "url":"https://www.indianfoodforever.com/mushroom/kadai-mushroom.html",
+        "nutrition":{
+            "serves":1,
+            "calories":215,
+            "carbohydrates":5.7,
+            "fats":20.8,
+            "proteins":1.6
+        }
+    },
+    {
+        "id":40,
+        "cuisine":"GAJAR HALWA",
+        "ingredients":["Carrot","Milk ","Cardamon ","Sugar","Ghee","Kishmish","Almond ","Pista "],
+        "url":"https://www.indianfoodforever.com/desserts/gajar-halwa-in-pressure-cooker.html",
+        "nutrition":{
+            "serves":1,
+            "calories":275,
+            "carbohydrates":35,
+            "fats":13,
+            "proteins":5.6
+        }
+    },
+    {
+        "id":41,
+        "cuisine":"EGGLESS CHOCOLATE MOUSSE",
+        "ingredients":["Unwhipped Cream","Dark Chocolate ","Oreo Chocolate Cookies","Butter","Chocolate Chips"],
+        "url":"https://www.indianfoodforever.com/desserts/eggless-chocolate-mousse-without-gelatin.html",
+        "nutrition":{
+            "serves":1,
+            "calories":310,
+            "carbohydrates":22.2,
+            "fats":23.6,
+            "proteins":5.5
+        }
+    },
+    {
+        "id":42,
+        "cuisine":"FRUIT CREAM",
+        "ingredients":["Amul Cream","Sugar ","mango","apple","banana","Cherries "],
+        "url":"https://www.indianfoodforever.com/desserts/fruit-cream-indian.html",
+        "nutrition":{
+            "serves":1,
+            "calories":300,
+            "carbohydrates":35,
+            "fats":24,
+            "proteins":0
+        }
+    },
+    {
+        "id":43,
+        "cuisine":"RAS MALAI",
+        "ingredients":["sugar","oz half & half milk ","saffron","cardamom seeds","almonds","pistachios"],
+        "url":"https://www.indianfoodforever.com/desserts/rasmalai.html",
+        "nutrition":{
+            "serves":1,
+            "calories":180,
+            "carbohydrates":18,
+            "fats":8,
+            "proteins":9
+        }
+    },
+    {
+        "id":44,
+        "cuisine":"RAVA KESARI",
+        "ingredients":["Semolina","Sugar ","Clarified Butter","Water","kesari powder","Saffron","Cashew ","Raisins"],
+        "url":"https://www.indianfoodforever.com/desserts/rava-kesari.html",
+        "nutrition":{
+            "serves":1,
+            "calories":223,
+            "carbohydrates":42,
+            "fats":6,
+            "proteins":3
+        }
+    },
+    {
+        "id":45,
+        "cuisine":"SABUDANA KHEER",
+        "ingredients":["Milk","Sugar ","Sago","Water","Cashew","Raisins"],
+        "url":"https://www.indianfoodforever.com/desserts/sago-kheer.html",
+        "nutrition":{
+            "serves":1,
+            "calories":250,
+            "carbohydrates":11,
+            "fats":3.7,
+            "proteins":1
+        }
+    },
+    {
+        "id":46,
+        "cuisine":"PISTA SANDESH",
+        "ingredients":["Paneer","Sugar ","rose  Water","cardamom ","Pista "],
+        "url":"https://www.indianfoodforever.com/desserts/sandesh.html",
+        "nutrition":{
+            "serves":1,
+            "calories":220,
+            "carbohydrates":26,
+            "fats":11,
+            "proteins":5
+        }
+    },
+    {
+        "id":47,
+        "cuisine":"KESAR KAJU BURFI",
+        "ingredients":["Kaju","Sugar ","kesar","orange color ","chandi (silver)warak "],
+        "url":"https://www.indianfoodforever.com/desserts/kesar-burfi.html",
+        "nutrition":{
+            "serves":1,
+            "calories":57,
+            "carbohydrates":6,
+            "fats":3,
+            "proteins":1
+        }
+    },
+    {
+        "id":48,
+        "cuisine":"SEVIYAN KHEER",
+        "ingredients":["Seviya ","Milk ","Ghee","Sugar ","Almonds ","Pistachio","Raisin","Rose water"],
+        "url":"https://www.indianfoodforever.com/desserts/seviya-kheer.html",
+        "nutrition":{
+            "serves":1,
+            "calories":373,
+            "carbohydrates":36.5,
+            "fats":18.1,
+            "proteins":7.7
+        }
+    },
+    {
+        "id":49,
+        "cuisine":"RICE KHEER",
+        "ingredients":["Basmati rice ","fat milk ","cardamom seeds","almonds ","saffron threads ","Pistachio","Raisin","sugar ","Silver Varak"],
+        "url":"https://www.indianfoodforever.com/desserts/kheer.html",
+        "nutrition":{
+            "serves":1,
+            "calories":263,
+            "carbohydrates":35,
+            "fats":11,
+            "proteins":8.3
+        }
+    },
+    {
+        "id":50,
+        "cuisine":"SHAHI TUKRA",
+        "ingredients":["Bread Slices ","Ghee ","Milk","Sugar ","Cardamom Powder ","Kismish"],
+        "url":"https://www.indianfoodforever.com/desserts/shahi-tukra.html",
+        "nutrition":{
+            "serves":1,
+            "calories":169,
+            "carbohydrates":17,
+            "fats":11,
+            "proteins":1
+        }
+    },
+    {
+        "id":51,
+        "cuisine":"PISTA KULFI",
+        "ingredients":["full cream milk ","Cornflour ","Sugar","Elaichi  ","khoya ","pistachios","almonds"],
+        "url":"https://www.indianfoodforever.com/desserts/kulfi.html",
+         "nutrition":{
+            "serves":1,
+            "calories":221.2,
+            "carbohydrates":20.3,
+            "fats":12.6,
+            "protein":7
+        }
+    },
+
+    {
+        "id":52,
+        "cuisine":"SHRIKHAND",
+        "ingredients":["yogurt ","sugar ","rose water","cardamom  ","nutmeg ","saffron","pistachios"],
+        "url":"https://www.indianfoodforever.com/desserts/srikhand.html",
+         "nutrition":{
+            "serves":1,
+            "calories":402,
+            "carbohydrates":39.8,
+            "fats":16.2,
+            "protein":10.8
+        }
+    },
+
+    {
+        "id":53,
+        "cuisine":"LAPSI",
+        "ingredients":["Broken wheat ","water ","Almonds","Sugar  ","Raisins ","Cardamom ","Ghee"],
+        "url":"https://www.indianfoodforever.com/desserts/lapssi.html",
+         "nutrition":{
+            "serves":1,
+            "calories":340,
+            "carbohydrates":73,
+            "fats":2,
+            "protein":14
+        }
+    },
+
+    {
+        "id":54,
+        "cuisine":"LAUKI HALWA",
+        "ingredients":["lauki ","milk ","sugar ","ghee  ","cardamom  ","raisins ","almonds"],
+        "url":"https://www.indianfoodforever.com/desserts/lauki-halwa.html",
+         "nutrition":{
+            "serves":1,
+            "calories":331,
+            "carbohydrates":59,
+            "fats":8,
+            "protein":6
+        }
+    },
+
+    {
+        "id":55,
+        "cuisine":"MAKHANA KHEER",
+        "ingredients":["Foxnuts ","ghee ","milk ","sugar   ","almonds  ","raisins ","pistachios","cardamom "],
+        "url":"https://www.indianfoodforever.com/desserts/makhana-kheer.html",
+         "nutrition":{
+            "serves":1,
+            "calories":166.5,
+            "carbohydrates":18.92,
+            "fats":4.94,
+            "protein":7.95
+        }
+    },
+    {
+        "id":56,
+        "cuisine":"MALPUA",
+        "ingredients":["Milk ","Maida ","Suji ","Ghee   ","Water  "],
+        "url":"https://www.indianfoodforever.com/desserts/malpua.html",
+         "nutrition":{
+            "serves":1,
+            "calories":151,
+            "carbohydrates":22,
+            "fats":6,
+            "protein":1
+        }
+    },
+    {
+        "id":57,
+        "cuisine":"MILK BURFI",
+        "ingredients":["Milk ","Lemon Juice ","Milk Powder ","sugar   ","Ghee  ","Cardamom  ","Silver Foil"],
+        "url":"https://www.indianfoodforever.com/desserts/milk-burfi.html",
+         "nutrition":{
+            "serves":1,
+            "calories":125,
+            "carbohydrates":17,
+            "fats":5,
+            "protein":3
+        }
+    },
+    {
+        "id":58,
+        "cuisine":"MYSORE PAK",
+        "ingredients":["Bengal Gram ","Sugar ","Ghee ","Water "],
+        "url":"https://www.indianfoodforever.com/desserts/mysore-pak.html",
+         "nutrition":{
+            "serves":1,
+            "calories":173,
+            "carbohydrates":17,
+            "fats":12,
+            "protein":0.8
+        }
+    },
+    {
+        "id":59,
+        "cuisine":"KHOYA PEDA",
+        "ingredients":["khoya ","sugar  ","cardamom  "," cardamom seeds   ","pistachios  "],
+        "url":"https://www.indianfoodforever.com/desserts/peda.html",
+         "nutrition":{
+            "serves":1,
+            "calories":146,
+            "carbohydrates":21,
+            "fats":4,
+            "protein":4
+        }
+    },
+    {
+        "id":60,
+        "cuisine":"PURAN POLI",
+        "ingredients":["Maida ","Turmeric Powder  ","Salt  "," Ghee  ","Water","Oil","Ghee "],
+        "url":"https://www.indianfoodforever.com/desserts/puran-poli-2.html",
+         "nutrition":{
+            "serves":1,
+            "calories":296,
+            "carbohydrates":49,
+            "fats":7.7,
+            "protein":8.5
+        }
+    },
+    {
+        "id":61,
+        "cuisine":"RABRI",
+        "ingredients":["milk ","sugar","cardamom   "," kewra essence  ","cardamom ","pistachio "],
+        "url":"https://www.indianfoodforever.com/desserts/rabri.html",
+         "nutrition":{
+            "serves":1,
+            "calories":400,
+            "carbohydrates":40,
+            "fats":20,
+            "protein":10
+        }
+    },
+    {
+        "id":62,
+        "cuisine":"ATTA HALWA",
+        "ingredients":["atta ","sugar","cardamom "," ghee","almonds","badami","raisins ","water"],
+        "url":"https://www.indianfoodforever.com/desserts/atta-halwa.html",
+         "nutrition":{
+            "serves":1,
+            "calories":300,
+            "carbohydrates":41.4,
+            "fats":15,
+            "protein":2.9
+        }
+    },
+    {
+        "id":63,
+        "cuisine":"MITHI GUJIYA",
+        "ingredients":["Maida  ","Ghee ","baking powder"," Khoya  ","Cardamom ","Almonds ","Raisins ","Coconut ","Sugar ","Ghee "],
+        "url":"https://www.indianfoodforever.com/desserts/gujiya.html",
+         "nutrition":{
+            "serves":1,
+            "calories":270,
+            "carbohydrates":11.1,
+            "fats":4.3,
+            "protein":3
+        }
+    },
+    {
+        "id":64,
+        "cuisine":"BADAM KA HALWA",
+        "ingredients":["Badam  ","Sugar ","Kesar "," Ghee ","Milk "],
+        "url":"https://www.indianfoodforever.com/desserts/badam-ka-halwa.html",
+         "nutrition":{
+            "serves":1,
+            "calories":132,
+            "carbohydrates":15,
+            "fats":7,
+            "protein":2
+        }
+    },
+    {
+        "id":65,
+        "cuisine":"GULAB JAMUN",
+        "ingredients":["Milk Powder  ","All Purpose Flour ","Baking Soda "," Suji   ","Ghee","milk ","Sugar","water","Cardamom","lemon","Rose Water","kesar","Oil "],
+        "url":"https://www.indianfoodforever.com/desserts/gulab-jamun-recipe.html",
+         "nutrition":{
+            "serves":1,
+            "calories":149,
+            "carbohydrates":20,
+            "fats":7.3,
+            "protein":1.9
+        }
+    },
+    {
+        "id":66,
+        "cuisine":"BADAM KHEER",
+        "ingredients":["Almond ","Milk ","Sugar "," Cardamoms   ","Saffron "],
+        "url":"https://www.indianfoodforever.com/desserts/badam-kheer.html",
+         "nutrition":{
+            "serves":1,
+            "calories":240,
+            "carbohydrates":30.6,
+            "fats":13,
+            "protein":5.9
+        }
+    },
+    {
+        "id":67,
+        "cuisine":"JALEBI",
+        "ingredients":["maida ","semolina","baking powder ","curd","warm water","saffron ","sugar","water","cardamom","rose water","Ghee"],
+        "url":"https://www.indianfoodforever.com/desserts/jalebi.html",
+         "nutrition":{
+            "serves":1,
+            "calories":150,
+            "carbohydrates":29,
+            "fats":3.5,
+            "protein":1.3
+        }
+    },
+    {
+        "id":68,
+        "cuisine":"Fish Tandoori",
+        "ingredients":["Fish"," curd"," Onions","yogurt"," Green Chillies","Tandoori masala","Haldi"," Ginger Garlic Paste","Red Chilli powder","Garam masala","Coriander","Cumin","Dhania","Oil","Salt"],
+        "url":"https://www.archanaskitchen.com/fish-tandoori-recipe",
+         "nutrition":{
+            "serves":1,
+            "calories":129,
+            "carbohydrates":6,
+            "fats":3,
+            "protein":18
+        }
+    },
+    {
+        "id":69,
+        "cuisine":"Patra Ni Machi",
+        "ingredients":["Fish","Lemon"," Onions","yogurt"," Green Chillies","Tandoori masala","Haldi"," Ginger Garlic Paste","ginger","garlic","Red Chilli powder","Garam masala","Coriander","Cumin","Dhania","Oil","Salt"],
+        "url":"https://www.archanaskitchen.com/patra-ni-machi-recipe-fish-cooked-in-banana-leaf",
+         "nutrition":{
+            "serves":1,
+            "calories":290,
+            "carbohydrates":6,
+            "fats":13,
+            "protein":35
+        }
+    },
+    {
+        "id":70,
+        "cuisine":"Bengali Style Pomfret Shorshe",
+        "ingredients":["Fish"," Pomfret fish"," Garlic","Green Chillies ","Kalonji","Onion","Mustard","Mustard seed","Red Chilli powder","Garam masala","Haldi","Turmeric powder","Dhania","Oil","Salt","Salt "],
+        "url":"https://www.archanaskitchen.com/pomfret-shorshe-recipe-pomfret-in-mustard-gravy",
+         "nutrition":{
+            "serves":1,
+            "calories":223.2,
+            "carbohydrates":0.6,
+            "fats":5.1,
+            "protein":40.1
+        }
+    },
+    {
+        "id":71,
+        "cuisine":"Chettinad Eral Thokku",
+        "ingredients":["Prawns","Shallots","Tomatoes","Curry leaves","Kalonji","Green Chillies"," Red Chilli powder","Ginger Garlic Paste","ginger","garlic","Mustard seed","Red Chilli powder","Garam masala","Haldi","Turmeric powder","Dhania","Oil","Salt","Black pepper"],
+        "url":"https://www.archanaskitchen.com/chettinad-eral-thokku-recipe-prawn-masala",
+         "nutrition":{
+            "serves":1,
+            "calories":84,
+            "carbohydrates":3,
+            "fats":1,
+            "protein":17
+        }
+    },
+    {
+        "id":72,
+        "cuisine":"Rava Fried Prawns",
+        "ingredients":["Prawns","Rice flour","Sooji ","Curry leaves","Kalonji","Green Chillies"," Red Chilli powder","Ginger Garlic Paste","ginger","garlic","Mustard seed","Red Chilli powder","Garam masala","Haldi","Turmeric powder","Dhania","Oil","Salt"],
+        "url":"https://www.archanaskitchen.com/rava-fried-prawns-recipe",
+         "nutrition":{
+            "serves":1,
+            "calories":30,
+            "carbohydrates":3,
+            "fats":1,
+            "protein":2
+        }
+    },
+    {
+        "id":73,
+        "cuisine":"Anar Pabda",
+        "ingredients":["fish"," Pomegranate juice","Pomegranate","Coconut","Onion","Tomatoes","Green Chillies","Jeera"," Red Chilli powder","Ginger Garlic Paste","ginger","garlic","Mustard seed","Kalonji ","Haldi","Turmeric powder","Lemon","Dhania","Oil","Salt","Honey","Mustard oil"],
+        "url":"https://www.archanaskitchen.com/anar-pabda-bengali-fish-curry-in-pomegranate-juice-coconut-milk",
+         "nutrition":{
+            "serves":1,
+            "calories":114,
+            "carbohydrates":5,
+            "fats":2,
+            "protein":19
+        }
+    },
+    {
+        "id":74,
+        "cuisine":"Murg Makhani",
+        "ingredients":["chicken","lime "," Pomegranate juice","yogurt","Coconut","Onion","Tomatoes","Green Chillies","Jeera"," Red Chilli powder","Ginger Garlic Paste","ginger","garlic","Mustard seed","Kalonji ","Haldi","Turmeric powder","Lemon","Dhania","Oil","Salt","cumin","methi","fenugreek","Mustard oil","butter","coriander","cloves","peppercorns","cinnamon","bay","bay leaves","almonds","cardamom","cilantro"],
+        "url":"https://www.thespruceeats.com/authentic-butter-chicken-1957382",
+         "nutrition":{
+            "serves":1,
+            "calories":373.2,
+            "carbohydrates":7.3,
+            "fats":11.8,
+            "protein":37.1
+        }
+    },
+    {
+        "id":75,
+        "cuisine":"Fish Amritsari",
+        "ingredients":["fish"," Pomegranate juice","Pomegranate","Coconut","Onion","Tomatoes","Green Chillies","Jeera"," Red Chilli powder","Ginger Garlic Paste","ginger","garlic","Mustard seed","Kalonji ","Haldi","Turmeric powder","Lemon","Dhania","Oil","Salt","lemon","lime"],
+        "url":"https://www.thespruceeats.com/fried-fish-amritsari-1957441",
+         "nutrition":{
+            "serves":1,
+            "calories":221,
+            "carbohydrates":36.3,
+            "fats":0.9,
+            "protein":5.1
+        }
+    },
+    {
+        "id":76,
+        "cuisine":"Spicy Mutton Gravy",
+        "ingredients":["Mutton"," Garlic ","Onions ","curd","yogurt","Cumin ","Jeera","Coriander Powde","Dhania","Cloves ","ginger","garlic","Green Chillies","Tomatoes","Haldi","Turmeric powder"," Bay leaves","Cardamom ","Oil","Salt","Elaichi","Red Chilli powder"],
+        "url":"https://www.archanaskitchen.com/dhaba-mutton-recipe-spicy-mutton-gravy",
+        "nutrition":{
+            "serves":1,
+            "calories":246,
+            "carbohydrates":22,
+            "fats":11,
+            "proteins":17.5
+        }
+    },
+    {
+      "id":77,
+      "cuisine":"Mutton Keema",
+      "ingredients":["Mutton"," Garlic ","Peppercorns"," Ginger Garlic Paste"," Green Chillies","Cumin ","Jeera","Coriander Powder","Dhania","Cloves ","ginger","garlic","Green Chillies","Tomatoes","Haldi","Turmeric powder"," Bay leaves","Cardamom ","Oil","Salt","Elaichi","Red Chilli powder","Kashmiri Red Chilli","Mint Leaves","Pudina"],
+      "url":"https://www.archanaskitchen.com/mutton-keema-recipe",
+      "nutrition":{
+          "serves":1,
+          "calories":195,
+          "carbohydrates":10,
+          "fats":24,
+          "proteins":17
+      }
+    },
+    {
+      "id":78,
+      "cuisine":"Mutton Rezala",
+      "ingredients":["Mutton"," Garlic ","Dalchini"," Ginger Garlic Paste"," Green Chillies","Cumin ","Jeera","Coriander Powder","Dhania","Cloves ","ginger","garlic","Green Chillies","Tomatoes","Haldi","Turmeric powder"," Bay leaves","Cardamom ","Oil","Salt","Elaichi","Red Chilli powder"," Ghee","Melon seeds","Nutmeg powder","Mace","Javitri","Sugar"],
+      "url":"https://www.archanaskitchen.com/mutton-rezala-recipe",
+      "nutrition":{
+          "serves":1,
+          "calories":312,
+          "carbohydrates":11,
+          "fats":19,
+          "proteins":21
+      }
+    },
+    {
+      "id":79,
+      "cuisine":"Mutton Matar Keema",
+      "ingredients":["Mutton"," Garlic ","Dalchini"," Ginger Garlic Paste"," Green Chillies","Cumin ","Jeera","Coriander Powder","Dhania","Cloves ","ginger","garlic","Green Chillies","Tomatoes","Haldi","Turmeric powder"," Bay leaves","Cardamom ","Oil","Salt","Elaichi","Red Chilli powder"," Ghee","Melon seeds","Nutmeg powde","Mace","Javitri","Sugar","Potatoes","aloo","Matar","pea","green pea","ajwain"],
+      "url":"https://www.archanaskitchen.com/mutton-matar-keema-recipe-minced-mutton-with-green-peas",
+      "nutrition":{
+          "serves":1,
+          "calories":320,
+          "carbohydrates":17,
+          "fats":17,
+          "proteins":23
+      }
+    },
+    {
+      "id":80,
+      "cuisine":"Mutton Kofta",
+      "ingredients":["Turnips","Poppy seeds","Badam ","Almond","Mutton ","Cumin ","Jeera","Coriander Powder","Dhania","Cloves ","ginger","garlic","Green Chillies","Tomatoes","Haldi","Turmeric powder"," Bay leaves","Cardamom ","Oil","Salt","Elaichi","Red Chilli powder"," Ghee","Melon seeds","Nutmeg powde","Mace","Javitri","Sugar","Potatoes","aloo","Matar","Fennel ","Gram flour","besan","Ajwain","Carom seeds","Cloves ","Saffron","Milk","Wheat Flour"],
+      "url":"https://www.archanaskitchen.com/shab-deg-recipe-kashmiri-mutton-kofta-and-turnip-curry",
+      "nutrition":{
+          "serves":1,
+          "calories":400,
+          "carbohydrates":48,
+          "fats":12.3,
+          "proteins":22
+      }
+    },
+    {
+      "id":81,
+      "cuisine":"Kashmiri Style Shab Deg",
+      "ingredients":["Kashmiri dry red chillies","Poppy seeds","Badi Elaichi","Mutton ","Cumin ","Jeera","Coriander Powder","Dhania","Cloves ","ginger","garlic","Green Chillies","Tomatoes","Haldi","Turmeric powder"," Bay leaves","Cardamom ","Oil","Salt","Elaichi","Red Chilli powder"," Ghee","Potatoes","aloo","Fennel ","Gram flour","besan","Ajwain","Carom seeds","Cloves "],
+      "url":"https://www.archanaskitchen.com/rajasthani-laal-maas-recipe-mutton-in-red-spicy-gravy",
+      "nutrition":{
+          "serves":1,
+          "calories":320,
+          "carbohydrates":23,
+          "fats":13,
+          "proteins":19
+      }
+    },
+    {
+      "id":82,
+      "cuisine":"Kofta Curry",
+      "ingredients":["cheese","Poppy seeds","Elaichi"," Paneer ","Raisins","Jeera","Coriander Powder","Dhania","Cloves","ginger","garlic","Green Chillies","Tomatoes","Haldi","Turmeric powder"," Bay leaves","Cardamom ","Oil","Salt","Elaichi","Red Chilli powder"," Ghee","Potatoes","aloo","Gram flour","besan","Ajwain","Carom seeds","Cloves ","Pistachios "],
+      "url":"https://www.archanaskitchen.com/sweet-spicy-stuffed-paneer-in-kofta-curry-recipe",
+      "nutrition":{
+          "serves":1,
+          "calories":229,
+          "carbohydrates":26,
+          "fats":17,
+          "proteins":5
+      }
+    },
+    {
+      "id":83,
+      "cuisine":"Rajma Chawal/Spiced Red Kidney Beans Curry",
+      "ingredients":["Rajma","Large Kidney Beans","Kidney Beans"," Paneer ","Raisins","Jeera","Coriander Powder","Dhania","Cloves ","ginger","garlic","Green Chillies","Tomatoes","Haldi","Turmeric powder"," Bay leaves","Cardamom ","Oil","Salt","Elaichi","Red Chilli powder"," Ghee","Potatoes","aloo","Elaichi"," Butter","Garam masala powder","Carom seeds"],
+      "url":"https://www.archanaskitchen.com/rajma-masala-rajma-chawal-spiced-red-kidney-beans-curry",
+      "nutrition":{
+          "serves":1,
+          "calories":180,
+          "carbohydrates":21,
+          "fats":6,
+          "proteins":6.5
+      }
+    },
+    {
+      "id":84,
+      "cuisine":"Moringa Masoor Dal/Drumstick Leaves Dal",
+      "ingredients":["Masoor Dal","Drumstick Leaves","Moringa"," Asafoetida","hing","Jeera","Coriander Powder","Dhania","Cloves ","ginger","garlic","Green Chillies","Tomatoes","Haldi","Turmeric powder"," Bay leaves","Cardamom ","Oil","Salt","Elaichi","Red Chilli powder","ghee","Lemon","lime"],
+      "url":"https://www.archanaskitchen.com/moringa-masoor-dal-recipe-drumstick-leaves-dal",
+      "nutrition":{
+          "serves":1,
+          "calories":160,
+          "carbohydrates":21,
+          "fats":12,
+          "proteins":10
+      }
+    },
+    {
+      "id":85,
+      "cuisine":"Dal Kabila",
+      "ingredients":["White Urad Dal","Urad Dal","Cinnamon ","Cloves","Tomato","Jeera","Coriander Powder","Dhania","Cloves ","ginger","garlic","Green Chillies","Tomatoes","Haldi","Turmeric powder"," Bay leaves","Cardamom ","Oil","Salt","Garam masala powder","Red Chilli powder","ghee","Lemon","lime"],
+      "url":"https://www.archanaskitchen.com/dal-kabila-recipe-diabetic-urad-dal-tadka",
+      "nutrition":{
+          "serves":1,
+          "calories":235,
+          "carbohydrates":32.6,
+          "fats":5.3,
+          "proteins":13.5
+      }
+    },
+    {
+      "id":86,
+      "cuisine":"Kollu Dal",
+      "ingredients":["Horse Gram Dal","Kollu","Cinnamon ","Cloves","Tomato","Jeera","Coriander Powder","Dhania","Cloves ","ginger","garlic","Green Chillies","Tomatoes","Haldi","Turmeric powder"," Bay leaves","Cardamom ","Oil","Salt","Garam masala powder","Onion","ghee","Coriander","Dhania"],
+      "url":"https://www.archanaskitchen.com/horsegram-dal-recipe",
+      "nutrition":{
+          "serves":1,
+          "calories":280,
+          "carbohydrates":21,
+          "fats":12,
+          "proteins":19
+      }
+    },
+    {
+      "id":87,
+      "cuisine":"Awadhi Style Dal Masoor Musallam",
+      "ingredients":["Masoor Dal","Horse Gram Dal","Kollu","Cinnamon ","Cloves","Tomato","Jeera","Coriander Powder","Dhania","Cloves ","ginger","garlic","Green Chillies","Tomatoes","Haldi","Turmeric powder","Bay leaf"," Bay leaves","Cardamom ","Oil","Salt","Garam masala powder","Onion","ghee","Coriander","Dhania","tej patta"],
+      "url":"https://www.archanaskitchen.com/awadhi-style-dal-masoor-musallam-recipe",
+      "nutrition":{
+          "serves":1,
+          "calories":250,
+          "carbohydrates":20,
+          "fats":12,
+          "proteins":17
+      }
+    },
+    {
+      "id":88,
+      "cuisine":"Sukhe Chole",
+      "ingredients":[" Kabuli Chana ","White Chickpeas","Chickpeas","Cloves","Tomato","Jeera","Coriander Powder","Dhania","Cloves ","ginger","garlic","Green Chillies","Tomatoes","Haldi","Turmeric powder","Bay leaf"," Bay leaves","Cardamom ","Oil","Salt","Amchur","Chana Masala Powder","Chana Masala"],
+      "url":"https://www.archanaskitchen.com/dry-chole-recipe-dry-masala-chickpeas",
+      "nutrition":{
+          "serves":1,
+          "calories":310,
+          "carbohydrates":28,
+          "fats":15,
+          "proteins":9.8
+      }
+    },
+    {
+      "id":89,
+      "cuisine":"Kela Methi Bhajiya",
+      "ingredients":["Bananas","Methi","Fenugreek","besan","Tomato","Gram flour","Coriander Powder","Dhania","Cloves ","ginger","garlic","Green Chillies","Tomatoes","Haldi","Turmeric powder","Bay leaf"," Bay leaves","Cardamom","Sugar","Oil","Salt","Cooking soda"],
+      "url":"https://www.archanaskitchen.com/kela-methi-bhajiya-recipe",
+      "nutrition":{
+          "serves":1,
+          "calories":280,
+          "carbohydrates":23,
+          "fats":21,
+          "proteins":5
+      }
+    },
+    {
+      "id":90,
+      "cuisine":"Broccoli, Carrot And Capsicum Sabzi",
+      "ingredients":["Broccoli ","Gajjar","Carrot","Capsicum","Green Bell Pepper","Pepper ","Mustard seeds","Coriander Powder","Dhania","Cloves ","ginger","garlic","Green Chillies","Tomatoes","Onion ","Carrots","Bay leaf","hing","Cardamom","Black pepper","Oil","Salt","Asafoetida "],
+      "url":"https://www.archanaskitchen.com/broccoli-carrot-and-capsicum-subzi-recipe",
+      "nutrition":{
+          "serves":1,
+          "calories":120,
+          "carbohydrates":15,
+          "fats":21,
+          "proteins":5
+      }
+    },
+    {
+      "id":91,
+      "cuisine":"Himachali Bhey",
+      "ingredients":["Lotus","Coriander Powder","Dhania","ginger","garlic","red Chillies","red chilly","Onions","Onion","Black pepper","Oil ","Gram flour"],
+      "url":"https://www.archanaskitchen.com/himachali-bhey-recipe-stir-fried-lotus-stem-recipe",
+      "nutrition":{
+          "serves":1,
+          "calories":280,
+          "carbohydrates":21,
+          "fats":12,
+          "proteins":19
+      }
+    },
+    {
+      "id":92,
+      "cuisine":"Tangy Pumpkin Dry",
+      "ingredients":["Kaddu","Pumpkin","Dhania","ginger","garlic","red Chillies","red chilly","Onion","Black pepper","Oil ","Cumin seeds","Panch Phoran Masala","Amchur","Yellow mustard seeds","Mustard seeds","Rice","Dry Mango Powder"],
+      "url":"https://www.archanaskitchen.com/himachali-style-pahari-auriya-kaddoo-recipe-tangy-pumpkin-dry",
+      "nutrition":{
+          "serves":1,
+          "calories":198,
+          "carbohydrates":21,
+          "fats":12,
+          "proteins":6
+      }
+    },
+    {
+      "id":93,
+      "cuisine":"CHICKEN WALING",
+      "ingredients":["chicken","gramflour","pepper","ginger","garlic","red Chillies","red chilly","Onions","onion","Black pepper","Oil ","Cumin seeds","Breadcrumbs","bread","mint"],
+      "url":"https://www.indianfoodforever.com/indian-starters/chicken-waling.html",
+      "nutrition":{
+          "serves":1,
+          "calories":260,
+          "carbohydrates":12,
+          "fats":23,
+          "proteins":20
+      }
+    },
+    {
+      "id":94,
+      "cuisine":"MUSHROOM BASKET",
+      "ingredients":["bread ","butter","pineapple","pepper","black pepper","mushrooms","mushroom","milk","fresh cream","white sauce"],
+      "url":"https://www.indianfoodforever.com/indian-starters/mushroom-basket.html",
+      "nutrition":{
+          "serves":1,
+          "calories":288,
+          "carbohydrates":16,
+          "fats":21,
+          "proteins":6
+      }
+    },
+    {
+      "id":95,
+      "cuisine":"TANDOORI CHICKEN CHAAT",
+      "ingredients":["tandoori","chicken","lemon","lime","chilli","mango","kachha aam","raw mango","onions","onion","green chillies","green chilly","coriander leaves","coriander","chaat masala","ginger"],
+      "url":"https://www.indianfoodforever.com/indian-starters/tandoori-chicken-chaat.html",
+      "nutrition":{
+          "serves":1,
+          "calories":265,
+          "carbohydrates":9,
+          "fats":12,
+          "proteins":31
+      }
+    },
+    {
+      "id":96,
+      "cuisine":"GAJAR KANJI HOLI DRINK",
+      "ingredients":["Carrots","Carrot","Beetroot","Chukandar","Gajar","lemon","lime","Red Chilly Powder","Rai","Mustard Powder","Black salt","Salt"],
+      "url":"https://www.indianfoodforever.com/holiday-recipes/holi/gajar-kanji.html",
+      "nutrition":{
+          "serves":1,
+          "calories":98,
+          "carbohydrates":20,
+          "fats":3,
+          "proteins":4
+      }
+    },
+    {
+      "id":97,
+      "cuisine":"HYDERABADI BIRYANI",
+      "ingredients":["Basmati Rice","Rice","Potatoes","potato","Carrots","carrrot","Gajar","Chilies","green chilly","Ginger","Garlic","Turmeric","haldi","Red Chilly Powder","Curd","Saffron","Milk","Mint","Pudina","Coriander","Cashewnuts","Raisins"],
+      "url":"https://www.indianfoodforever.com/rice/hyderabadi-biryani.html",
+      "nutrition":{
+          "serves":1,
+          "calories":430,
+          "carbohydrates":69,
+          "fats":28,
+          "proteins":12
+      }
+    },
+    {
+      "id":98,
+      "cuisine":"kashmiri pulao",
+      "ingredients":["Basmati Rice","Rice","Carrots","carrot","Gajar","Chilies","chilly","Cinnamon","Ginger","Garlic","Turmeric","haldi","Red Chilly Powder","Curd","Saffron","Milk","Pudina","Coriander","Cashewnuts","Raisins","walnut","cashew","oil","salt"],
+      "url":"https://www.indianfoodforever.com/rice/kashmiri-pulao.html",
+      "nutrition":{
+          "serves":1,
+          "calories":295,
+          "carbohydrates":47,
+          "fats":10,
+          "proteins":7
+      }
+    },
+    {
+      "id":99,
+      "cuisine":"HYDERABADI MUTTON BIRYANI",
+      "ingredients":["Basmati Rice","Rice","Carrots","carrot","Gajar","Chilies","green chilly","chilly","Cinnamon","Ginger","Garlic","Turmeric","haldi","Red Chili Powder","red chilly","Curd","Saffron","mint","Milk","Pudina","Coriander","Cashewnuts","Mutton","walnut","cashew","oil","salt","Lemon","lime","Ghee"],
+      "url":"https://www.indianfoodforever.com/rice/mutton-biryani.html",
+      "nutrition":{
+          "serves":1,
+          "calories":580,
+          "carbohydrates":40,
+          "fats":37,
+          "proteins":38
+      }
+    },
+    {
+      "id":100,
+      "cuisine":"BRINJAL RICE",
+      "ingredients":["Basmati Rice","Rice","plain rice","mustard seeds","curry leaves","brinjals","eggplant","Chilies","green chilly","red chilly","Cinnamon ","Ginger","Garlic","Turmeric","haldi","oil","salt","Lemon","lime","Ghee"],
+      "url":"https://www.indianfoodforever.com/rice/brinjal-rice.html",
+      "nutrition":{
+          "serves":1,
+          "calories":240,
+          "carbohydrates":44,
+          "fats":5,
+          "proteins":8
+      }
+    },
+    {
+        "id":101,
+        "cuisine":"STRAWBERRY CORN SALSA",
+        "ingredients":["strawberry","strawberries","tomato","tomatoes","corn","onion","onions","olive oil","cilantro","lemon","salt","raspberry vinegar","tortilla chips","vinegar"],
+        "url":"https://www.tasteofhome.com/recipes/strawberry-corn-salsa/",
+        "nutrition":{
+            "serves":1,
+            "calories":49,
+            "carbohydrates":5,
+            "fats":3,
+            "proteins":1
+        }
+      },
+      {
+        "id":102,
+        "cuisine":"BERRY WHITE ICE POPS",
+        "ingredients":["milk","honey","vanilla extract","vanilla","Vanilla Essence","rasberry","rasberries","blueberry","blueberries"],
+        "url":"https://www.tasteofhome.com/recipes/berry-white-ice-pops/",
+        "nutrition":{
+            "serves":1,
+            "calories":51,
+            "carbohydrates":8,
+            "fats":2,
+            "proteins":2
+        }
+      },
+      {
+        "id":103,
+        "cuisine":"LIME HONEY FRUIT SALAD",
+        "ingredients":["honey","cornstarch","corn starch","pears","red grapes","green grapes","greapes","apples","apple"],
+        "url":"https://www.tasteofhome.com/recipes/lime-honey-fruit-salad/",
+        "nutrition":{
+            "serves":1,
+            "calories":96,
+            "carbohydrates":25,
+            "fats":0,
+            "proteins":1
+        }
+      },
+      {
+        "id":104,
+        "cuisine":"MIXED FRUIT WITH LEMON & BASIL",
+        "ingredients":["lemon","sugar","salt","mustard","pepper","pepper powder","onion powder","olive oil","blueberry","blueberries","rasberry","rasberries","basil","pineapple","strawberry","strawberries","water melon","kiwi"],
+        "url":"https://www.tasteofhome.com/recipes/mixed-fruit-with-lemon-basil-dressing/",
+        "nutrition":{
+            "serves":1,
+            "calories":145,
+            "carbohydrates":14,
+            "fats":11,
+            "proteins":1
+        }
+      },
+      {
+        "id":105,
+        "cuisine":"GRAPEFRUIT, LIME & MINT YOGURT PARAFAIT",
+        "ingredients":["grapefruit","yogurt","zest","lemon","honey","mint","mint leaves"],
+        "url":"https://www.tasteofhome.com/recipes/grapefruit-lime-mint-yogurt-parfait/",
+        "nutrition":{
+            "serves":1,
+            "calories":207,
+            "carbohydrates":39,
+            "fats":3,
+            "proteins":10
+        }
+      },
+      {
+        "id":106,
+        "cuisine":"energy smoothie",
+        "ingredients":["orange","oranges","strawberry","strawberries","sugar","banana","honey","ice"],
+        "url":"https://www.yummly.com/recipe/Energy-Smoothie-2314382",
+        "nutrition":{
+                "serves":1,
+                "calories":50,
+                "carbohydrates":13,
+                "fats":1,
+                "proteins":1
+        }
+    },
+    {
+            "id":107,
+            "cuisine":"Apple orange smoothie",
+            "ingredients":["orange","apple","ginger","pepper"],
+            "url":"https://www.indianhealthyrecipes.com/apple-orange-smoothie/#wprm-recipe-container-37185",
+            "nutrition":{
+                    "serves":1,
+                    "calories":92,
+                    "carbohydrates": 20,
+                    "fats":1,
+                    "proteins":1
+            }
+    },
+    {
+            "id":108,
+            "cuisine":"Mango almond smoothie",
+            "ingredients":["mango","almond","water","coconut water","coconut milk","cardamom ","honey","sugar"],
+            "url":"https://www.indianhealthyrecipes.com/mango-almond-smoothie-recipe/#wprm-recipe-container-38474",
+            "nutrition":{
+                    "serves":1,
+                    "calories":40,
+                    "carbohydrates":7,
+                    "fats":1,
+                    "proteins":1
+            }
+    },
+    {
+            "id":109,
+            "cuisine":"Pineapple smoothie",
+            "ingredients":["pineapple","banana","water ","cardamom ","ginger","flax seeds"],
+            "url":"https://www.indianhealthyrecipes.com/pineapple-smoothie-recipe/#wprm-recipe-container-38184",
+            "nutrition":{
+                    "serves":1,
+                    "calories":83,
+                    "carbohydrates":18,
+                    "fats":1,
+                    "proteins":1
+            }
+    },
+    {
+            "id":110,
+            "cuisine":"orange banana smoothie",
+            "ingredients":["banana","orange","almond","cashew","ginger"],
+            "url":"",
+            "nutrition":{
+                    "serves":1,
+                    "calories":102,
+                    "carbohydrates":25,
+                    "fats":1,
+                    "proteins":1
+            }
+    },
+    {
+            "id":111,
+            "cuisine":"Pomeranate juice",
+            "ingredients":["Pomegranate","lemon","ginger","salt"],
+            "url":"https://www.indianhealthyrecipes.com/pomegranate-juice-recipe/#wprm-recipe-container-37027",
+            "nutrition":{
+                    "serves":1,
+                    "calories":52,
+                    "carbohydrates":12,
+                    "fats":0.5,
+                    "proteins":1
+            }
+    },
+    {
+            "id":112,
+            "cuisine":"Apple milkshake",
+            "ingredients":["apple","milk","cinnamon","sugar","honey","almonds ","ice cubes"],
+            "url":"https://www.indianhealthyrecipes.com/apple-milkshake-recipe/#wprm-recipe-container-38047",
+            "nutrition":{
+                    "serves":1,
+                    "calories":124,
+                    "carbohydrates":18,
+                    "fats":3.5,
+                    "proteins":4
+            }
+    },
+    {
+            "id":113,
+            "cuisine":"Grape juice",
+            "ingredients":["grapes","ginger","salt","tulsi","basil","pepper"],
+            "url":"https://www.indianhealthyrecipes.com/grape-juice-recipe/#wprm-recipe-container-37031",
+            "nutrition":{
+                    "serves":1,
+                    "calories":77,
+                    "carbohydrates":20,
+                    "fats":0,
+                    "proteins":1
+            }
+    },
+    {
+            "id":114,
+            "cuisine":"Watermelon juice",
+            "ingredients":["watermelon","lemon","ginger","mint"],
+            "url":"https://www.indianhealthyrecipes.com/watermelon-juice-recipe/",
+            "nutrition":{
+                    "serves":1,
+                    "calories":57,
+                    "carbohydrates":14,
+                    "fats":0,
+                    "proteins":1
+            }
+    },
+    {
+            "id":115,
+            "cuisine":"Orange juice",
+            "ingredients":["orange","salt","ginger","mint","honey","sugar"],
+            "url":"https://www.indianhealthyrecipes.com/orange-juice-recipe/#wprm-recipe-container-36912",
+            "nutrition":{
+                    "serves":1,
+                    "calories":28,
+                    "carbohydrates":7,
+                    "fats":0,
+                    "proteins":1
+            }
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

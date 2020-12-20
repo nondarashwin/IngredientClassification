@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Add New Recipe</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</head>
+<body>
+<div class="navbar-fixed">
+    <nav>
+        <div class="nav-wrapper purple accent-1">
+            <a href="" class="brand-logo"> <font size="7"<b>Recipe Recommendation</b></font></a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                {% if request.user.username == 'admin' %}
+                <li><a href="/">Search</a></li>
+               <li> <a href="/home">Home</a></li>
+                {% endif%}
+              <li>  <a href="/logout">Logout</a>
+
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
+<h2>Add new Recipe</h2>
+<form action="/add" method="POST" enctype=multipart/form-data>
+    {% csrf_token%}
+    <label>Name</label>
+    <input type="text" name="name" ><br>
+    <label>Ingridient</label>
+    <input type="text" name="ingredient" ><br>
+    <label>Calories</label>
+    <input type="text" name="calories" ><br>
+    <label>Carbohydrates</label>
+    <input type="text" name="carbohydrates" ><br>
+    <label>Fats</label>
+    <input type="text" name="fats" ><br>
+    <label>Proteins</label>
+    <input type="text" name="proteins"><br>
+    <label>Serves</label>
+    <input type="text" name="serves"><br>
+    <label>Url</label>
+    <input type="text" name="url"><br>
+    <div class= "file-field input-field" >
+            <div class="btn waves-effect waves-light purple accent-1" >
+                <span> Browse </span><input type = "file"name = "document" >
+                </div>
+            <div class= "file-path-wrapper" >
+                <input class= "file-path validate"type = "text" ></div>
+    </div>
+     <button class="btn waves-effect waves-light purple accent-1" type="submit">Submit</button>
+</form>
+</body>
+</html>

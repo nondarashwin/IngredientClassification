@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{name}}</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+    <!-- Compiled and minified JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+</head>
+<body>
+<div class="navbar-fixed">
+    <nav>
+        <div class="nav-wrapper purple accent-1">
+            <a href="" class="brand-logo"> <font size="7"<b>Recipe Recommendation</b></font></a>
+            <ul id="nav-mobile" class="right hide-on-med-and-down">
+                <ul id="nav-mobile" class="right hide-on-med-and-down">
+                {% if request.user.username == 'admin' %}
+                <li><a href="/add">Add New Recipe</a></li>
+               <li> <a href="/home">Home</a></li>
+                {% endif%}
+                    <li><a href="/">search</a> </li>
+              <li>  <a href="/logout">Logout</a>
+
+                </li>
+            </ul>
+            </ul>
+        </div>
+    </nav>
+</div>
+<div class="col s3 m3">
+    <div class="card">
+        <div class="card-image center">
+            <img src="{{images}}" style="height:500px;">
+
+        </div>
+        <div class="card-content">
+            <b>{{name}}</b>
+        </div>
+        <div class="card-content">
+            <p></p><b>Ingredients</b>{% for ing in ingredient%}
+            {{ing}},
+            {% endfor %}<br>
+            <b>Serves :</b>{{nutrition.serves}}<br>
+            <b>Calories :</b>{{nutrition.calories}}<br>
+            <b>Fats :</b>{{nutrition.fats}}<br>
+            <b>Protein :</b>{{nutrition.proteins}}<br>
+            <b>Carbohydrate :</b>{{nutrition.carbohydrates}}</p>
+            <b>Rating:</b>{{rating}}<br>
+            <b>your Rating</b>
+            <form action="/recipe/{{name}}/rate" method="POST">
+                {% csrf_token %}
+            {% for i in range %}
+             <label>
+        <input class="with-gap purple accent-1" id="rating{{i}}" name="group3" type="radio" value={{i}} {% if i == user_rating %} checked {% endif%}/>
+        <span>{{i}}</span>
+    </label>{% endfor %}
+            <button class="btn waves-effect waves-light purple accent-1" type="submit">Submit</button></form>
+        </div>
+        <div class="card-action">
+            <a href="{{link}}">Receipe Details</a>
+        </div>
+    </div>
+</div>
+</body>
+</html>
