@@ -3,7 +3,7 @@ import matplotlib
 matplotlib.use("Agg")
 
 # import the necessary packages
-from keras.preprocessing.image import ImageDataGenerator
+from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from keras.optimizers import Adam
 from sklearn.model_selection import train_test_split
 from keras.preprocessing.image import img_to_array
@@ -95,13 +95,13 @@ aug = ImageDataGenerator(rotation_range=30, width_shift_range=0.1,
 # initialize the model
 print("[INFO] Compiling Model...")
 model = LeNet.build(width=28, height=28, depth=3, classes=num_class)
-opt = Adam(lr=INIT_LR, decay=INIT_LR / EPOCHS)
+opt = Adam(learning_rate=INIT_LR, decay=INIT_LR / EPOCHS)
 model.compile(loss="binary_crossentropy", optimizer=opt,
 	metrics=["accuracy"])
 
 # train the network
 print("[INFO] Training Network...")
-H = model.fit_generator(aug.flow(trainX, trainY, batch_size=BS),
+H = model.fit(aug.flow(trainX, trainY, batch_size=BS),
 	validation_data=(testX, testY), steps_per_epoch=len(trainX) // BS,
 	epochs=EPOCHS, verbose=1 )
 
@@ -115,8 +115,8 @@ plt.style.use("ggplot")
 plt.figure()
 plt.plot(np.arange(0,EPOCHS), H.history["loss"], label="train_loss")
 plt.plot(np.arange(0,EPOCHS), H.history["val_loss"], label="val_loss")
-plt.plot(np.arange(0,EPOCHS), H.history["acc"], label="train_acc")
-plt.plot(np.arange(0,EPOCHS), H.history["val_acc"], label="val_acc")
+plt.plot(np.arange(0,EPOCHS), H.history["accuracy"], label="train_acc")
+plt.plot(np.arange(0,EPOCHS), H.history["val_accuracy"], label="val_acc")
 plt.title("Training Loss and Accuracy")
 plt.xlabel("Epoch #")
 plt.ylabel("Loss/Accuracy")

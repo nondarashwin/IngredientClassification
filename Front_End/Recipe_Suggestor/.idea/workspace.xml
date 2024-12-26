@@ -4,20 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="178fe3cd-f875-4723-8857-bcdd33ffa18a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/../../.idea/IngredientClassification.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/easycode.ignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Recipe_Suggestor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Recipe_Suggestor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="178fe3cd-f875-4723-8857-bcdd33ffa18a" name="Default" comment="upgraded all the files">
+      <change afterPath="$PROJECT_DIR$/media/Screenshot from 2024-11-27 17-03-33.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Experiment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Experiment.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Recipe_Suggestor/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Recipe_Suggestor/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/I_transformer.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Data/I_transformer.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/KNN.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Data/KNN.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Data/data.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Data/trained_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/Data/trained_model.h5" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipe_app/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipe_app/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipe_app/predict.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipe_app/predict.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recipe_app/url.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipe_app/url.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/recipe_app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/recipe_app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../I_transformer.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../../I_transformer.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingredient-Classification/plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../Ingredient-Classification/plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingredient-Classification/pyimagesearch/lenet.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Ingredient-Classification/pyimagesearch/lenet.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingredient-Classification/train_network.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Ingredient-Classification/train_network.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Ingredient-Classification/trained_model.h5" beforeDir="false" afterPath="$PROJECT_DIR$/../../Ingredient-Classification/trained_model.h5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KNN.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../../KNN.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Main.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -297,6 +300,15 @@
       <workItem from="1590901614041" duration="48000" />
       <workItem from="1590902564573" duration="614000" />
     </task>
+    <task id="LOCAL-00001" summary="upgraded all the files">
+      <option name="closed" value="true" />
+      <created>1735207426103</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1735207426103</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -331,6 +343,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="upgraded all the files" />
+    <option name="LAST_COMMIT_MESSAGE" value="upgraded all the files" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/templates/add.html">

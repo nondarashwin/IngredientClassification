@@ -73,7 +73,7 @@ def register(requests):
             return redirect('/register')
     else:
         if (requests.user.is_authenticated):
-            if(requests.user.username=='admin'):
+            if requests.user.username in ['admin', 'qwas']:
                 return render(requests, 'home.html')
             else:
                 return redirect('/')
@@ -81,7 +81,7 @@ def register(requests):
             return render(requests, 'register.html')
 # Create your views here.
 def add(requests):
-    if(requests.user.is_authenticated and requests.user.username=='admin'):
+    if(requests.user.is_authenticated and requests.user.username in ['admin','qwas']):
         if (requests.method == 'POST'):
             name = requests.POST.get('name', False)
             data = pd.read_csv('Data/data.csv')
@@ -122,7 +122,7 @@ def add(requests):
 
 
 def edit(requests, username):
-    if (requests.user.is_authenticated and requests.user.username=='admin'):
+    if (requests.user.is_authenticated and requests.user.username in ['admin','qwas']):
         if (requests.method == 'POST'):
             ingredient = requests.POST.get('ingredient', False)
             serves = requests.POST.get('serves', False)
@@ -165,7 +165,7 @@ def edit(requests, username):
 
 
 def admin(requests):
-    if (requests.method == 'POST'):
+    if requests.method == 'POST':
         username1 = requests.POST.get('username', False)
         password1 = requests.POST.get('password', False)
         user = auth.authenticate(username=username1, password=password1)
@@ -177,7 +177,7 @@ def admin(requests):
             return redirect('/login')
     else:
         if (requests.user.is_authenticated):
-            if(requests.user.username == 'admin'):
+            if(requests.user.username in ['admin',"qwas"]):
                 return redirect('/home')
             else:
                 return redirect('/')
@@ -191,8 +191,8 @@ def logout(requests):
 
 
 def home(requests):
-    if (requests.user.is_authenticated):
-        if(requests.user.username=='admin'):
+    if requests.user.is_authenticated:
+        if requests.user.username in ['admin',"qwas"]:
             data = pd.read_csv('Data/data.csv')
             data = data.drop(['url', 'ingredients', 'nutrition', 'id'], axis=1)
             k = []
@@ -208,7 +208,7 @@ def home(requests):
 
 def detail(requests, username):
     rating_message='No Ratings'
-    if (requests.user.is_authenticated):
+    if requests.user.is_authenticated:
         data = pd.read_csv('Data/data.csv')
         data = data[data['cuisine'] == username]
         print(data['cuisine'])
