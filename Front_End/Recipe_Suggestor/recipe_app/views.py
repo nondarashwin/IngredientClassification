@@ -39,7 +39,7 @@ def train():
     pickle.dump(model,open('Data/KNN.pkl','wb'))
     pickle.dump(le,open('Data/I_transformer.pkl','wb'))
 def ratings(requests,username):
-    if (requests.method == 'POST'):
+    if requests.method == 'POST':
         user=requests.user.username
         rating=requests.POST.get('group3',False)
         if(rating_model.objects.filter(username=user,cuisine=username).exists()):
@@ -53,14 +53,14 @@ def ratings(requests,username):
     else:
         return  redirect('/recipe/'+username)
 def register(requests):
-    if (requests.method == 'POST'):
+    if requests.method == 'POST':
         name1 = requests.POST.get('name', False)
         username1 = requests.POST.get('username', False)
         email_id1 = requests.POST.get('emailid', False)
         password1 = requests.POST.get('password', False)
         cpassword1 = requests.POST.get('cpassword', False)
-        if (password1 == cpassword1):
-            if ((User.objects.filter(username=username1).exists())):
+        if password1 == cpassword1:
+            if User.objects.filter(username=username1).exists():
                 messages.info(requests, "Username  Already Taken")
                 return redirect('/register')
             else:
@@ -254,11 +254,11 @@ def predict(requests, ingredient, name):
     for i in range(n):
         print(ingredient[i])
         ingredient[i] = ingredient[i].lower()
-        if (ingredient[i].lower() not in le_ingredient):
+        if ingredient[i].lower() not in le_ingredient:
             print('True')
             c = get_close_matches(ingredient[i], le_ingredient)
             print(c)
-            if (len(c) == 0):
+            if len(c) == 0:
                 message = ingredient[i] + ' not found'
                 ingredient[i] = ''
             else:
@@ -289,7 +289,7 @@ def predict(requests, ingredient, name):
     transfer = []
     # messages.info(requests,message)
     print(len(recipes))
-    if (len(recipes) == 0):
+    if len(recipes) == 0:
         print('True')
         print(message)
         messages.info(requests, message)
@@ -326,8 +326,8 @@ def index(requests):
 
 
 def byingredient(requests):
-    if (requests.user.is_authenticated):
-        if (requests.method == 'POST'):
+    if requests.user.is_authenticated:
+        if requests.method == 'POST':
             ingredients = requests.POST.get('ingredient', False)
             ingredients = ingredients.split(',')
             print(ingredients)
@@ -339,11 +339,11 @@ def byingredient(requests):
 
 
 def upload(requests):
-    if (requests.user.is_authenticated):
-        if (requests.method == "POST"):
+    if requests.user.is_authenticated:
+        if requests.method == "POST":
             upload_file = requests.FILES['document']
             fs = FileSystemStorage()
-            if ('.' in upload_file.name):
+            if '.' in upload_file.name:
                 fs.save(upload_file.name, upload_file)
                 return byimage(requests, upload_file.name)
             else:

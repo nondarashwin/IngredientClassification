@@ -1,6 +1,6 @@
 # import the necessary packages
-from keras.preprocessing.image import img_to_array
-from keras.models import load_model
+
+
 import numpy as np
 import argparse
 import imutils
@@ -9,6 +9,9 @@ import os
 import sys
 import pandas as pd
 import pickle
+
+from keras.src.saving import load_model
+from keras.src.utils import img_to_array
 from sklearn import preprocessing
 from difflib import get_close_matches
 from sklearn.neighbors import KNeighborsClassifier

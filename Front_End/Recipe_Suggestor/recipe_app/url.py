@@ -1,15 +1,15 @@
-from django.conf.urls import url
+from django.urls import re_path
 # from django.urls import re_path
 from . import views
 
-urlpatterns = [url(r'^$', views.index, name='home'),
-               url(r'^upload$', views.upload, name='upload'),
-               url(r'^login$', views.admin, name='upload'),
-               url(r'^home$', views.home, name='upload'),
-               url(r'^logout$', views.logout, name='upload'),
-               url(r'^register$', views.register, name='upload'),
-            url(r'^add$', views.add, name='upload'),
-               url(r'^recipe/(?P<username>[\w. @+-]+)/$', views.detail, name='user'),
-url(r'^recipe/(?P<username>[\w. @+-]+)/rate$', views.ratings, name='user'),
-               url(r'^edit/(?P<username>[\w. @+-]+)/$', views.edit, name='user'),
-               url(r'^byingredient$', views.byingredient, name='byingrdients')]
+urlpatterns = [re_path(r'^$', views.index, name='home'),
+               re_path(r'^upload$', views.upload, name='upload'),
+               re_path(r'^login$', views.admin, name='upload'),
+               re_path(r'^home$', views.home, name='upload'),
+               re_path(r'^logout$', views.logout, name='upload'),
+               re_path(r'^register$', views.register, name='upload'),
+            re_path(r'^add$', views.add, name='upload'),
+               re_path(r'^recipe/(?P<username>[\w. @+-]+)/$', views.detail, name='user'),
+re_path(r'^recipe/(?P<username>[\w. @+-]+)/rate$', views.ratings, name='user'),
+               re_path(r'^edit/(?P<username>[\w. @+-]+)/$', views.edit, name='user'),
+               re_path(r'^byingredient$', views.byingredient, name='byingrdients')]
